@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="407d4faa-d4c1-40b4-814e-a4e91d6ed3c5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/_config.yml" afterPath="$PROJECT_DIR$/example/_config.yml" />
     </list>
     <ignored path="Yangdeming0.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -136,8 +136,8 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/example/_posts/2017-03-06-new-test.md" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
-        <option value="$PROJECT_DIR$/example/_config.yml" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/example/_config.yml" />
       </list>
     </option>
   </component>
@@ -439,12 +439,12 @@
       <option name="presentableId" value="Default" />
       <updated>1577242512932</updated>
       <workItem from="1577242515339" duration="3425000" />
-      <workItem from="1577268935413" duration="2137000" />
+      <workItem from="1577268935413" duration="2421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5562000" />
+    <option name="totallyTimeSpent" value="5846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1364" y="37" width="1789" height="1041" extended-state="0" />
